@@ -49,4 +49,4 @@
     </td>
 </table>
 ---
-[![](https://visitcount.itsvg.in/api?id=b1nocchio&icon=0&color=0)](https://visitcount.itsvg
+[![](https://visitcount.itsvg.in/api?id=b1nocchio&icon=0&color=0)](https://visitcount.itsvg)
