@@ -17,6 +17,21 @@
 
 ✨ Happy to connect with everyone!
 
+## 👥 Nhóm
+
+- **Tên nhóm**: Nhóm 6 anh em siêu nhân (**Nhóm 4**)
+- **Thành viên**:
+  - **Trần Hưng Nhật Thảo** – Product Owner: Giám sát tổng quan dự án và đảm bảo sản phẩm cuối cùng đáp ứng yêu cầu của khách hàng.
+  - **Phạm Hữu Hoàng** – Scrum Master: Điều phối dự án theo phương pháp Scrum, giúp nhóm làm việc hiệu quả và giữ đúng tiến độ.
+  - **Nguyễn Hoàng Phước Thịnh** – Dev: Phát triển và tối ưu hóa mã nguồn.
+  - **Phan Trọng Tín** - Dev: Hỗ trợ chính trong việc xây dựng backend của dự án.
+  - **Phan Kiến Năng** - Dev: Chuyên về giao diện frontend và UX/UI.
+  - **Nguyễn Duy Tài** - Dev: Phát triển các chức năng liên quan đến dữ liệu.
+
+Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và sáng tạo trong mọi dự án để đem lại sản phẩm có giá trị thực tiễn.
+
+---
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/p2t.29/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/p2t.29/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@p2t29) 
