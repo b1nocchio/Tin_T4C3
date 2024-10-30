@@ -31,7 +31,7 @@
 
 ---
 
-## 👥 Nhóm
+## 👥 Group
 
 - **Team Name**: The Six Super Brothers (Team 4)
 - **Members**:
