@@ -10,6 +10,7 @@
 <a href="https://discord.gg/YPERM8en"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://x.com/tincutee" ><img src="https://img.shields.io/twitter/follow/b1nocchio.svg?style=social" /> </a>
 <br>
+</div>
 
 <h2 align="center">Hi 👋, I'm Everyone</h2>
 <p align="center">
