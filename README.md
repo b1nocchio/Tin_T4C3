@@ -15,7 +15,7 @@
 - **🏫 School:** Ho Chi Minh University of Foreign Language and Information Technology
 - **💑 Relationship Status:** 💞 In a Relationship
 - **🎨 Hobbies:** 🎶 Music, 💻 Coding, ✈️ Traveling, 🎮 Gaming, etc.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=b1nocchhio&label=Profile%20views&color=0e75b6&style=flat" alt="b1nocchio" /> </p>
 
 ✨ Happy to connect with everyone!
 
