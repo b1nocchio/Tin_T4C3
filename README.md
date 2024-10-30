@@ -41,6 +41,7 @@
  - **Phan Trọng Tín** – Developer: Primarily supports backend development for the project.
  - **Phan Kiến Năng** – Developer: Focuses on frontend design and UX/UI.
  -  **Nguyễn Duy Tài** – Developer: Develops features related to data management.
+
  We are a young, dynamic team of students, always exploring and innovating in every project to deliver practical, valuable products.
 
 ---
