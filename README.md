@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8213732b-e986-4a42-8412-94b0ca6a24fd)# 💫About Me :
+# 💫About Me :
 
 - **👤 Name:** Phan Trong Tin
 - **🎂 Age:** 20
@@ -20,7 +20,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
       <p align="center"> 
