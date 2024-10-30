@@ -1,4 +1,4 @@
-# 💫About Me :
+![image](https://github.com/user-attachments/assets/af24fa8a-28d5-4bc2-8b95-a1011e15b543)# 💫About Me :
 
 - **👤 Name:** Phan Trong Tin
 - **🎂 Age:** 20
@@ -47,7 +47,11 @@
     <td>
       <img src="https://media.tenor.com/uZv4t9KXvCMAAAAM/rainbow-cat-rainbow.gif" alt="tiennhm" width="100%"/>
     </td>
-
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
   </tr>
 </table>
 ---
