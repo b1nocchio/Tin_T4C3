@@ -83,6 +83,14 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
 [![ChatGPT hoạt động như thế nào? Tự viết ChatGPT chạy local SIÊU DỄ](https://ytcards.demolab.com/?id=L7AWT4QMlYw&title=ChatGPT+hoạt+động+như+thế+nào?&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "ChatGPT hoạt động như thế nào? Tự viết ChatGPT chạy local SIÊU DỄ")](https://www.youtube.com/watch?v=L7AWT4QMlYw)
 <!-- END YOUTUBE-CARDS -->
 
+## 🌟 Career Objective
+
+As a **Full-Stack Developer**, I aim to build seamless and efficient digital experiences by mastering both **front-end** and **back-end** technologies. I am passionate about leveraging the latest industry practices to deliver innovative solutions and contribute to impactful projects in the IT landscape.
+
+--- 
+🔗 _Driven by curiosity, inspired by challenges, and committed to excellence in every line of code._
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=b1nocchio&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b1nocchio&theme=gotham&hide_border=false)<br/>
