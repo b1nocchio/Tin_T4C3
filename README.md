@@ -48,15 +48,17 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
 
 ---
 
-
+<div align="center">
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/p2t.29/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/p2t.29/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@p2t29) 
-
+</div>
+<div align="center">
 # 💻Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+</div>
 
+<div align="center">
 # ✍Activities:
-
 <table style="width:100%;">
   <tr>
     <td>
@@ -70,7 +72,8 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
     </td>
   </tr>
 </table>
-
+</div>
+<div align="center">
 # 💻 My favorite videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
@@ -84,7 +87,7 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
 [![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
 [![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7)
 <!-- END YOUTUBE-CARDS -->
-
+</div>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=b1nocchio&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -97,7 +100,7 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+<div align="center">
 ### 😂Love cat
 <table style="width:100%;">
   <tr>
@@ -105,5 +108,6 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
       <img src="https://media.tenor.com/uZv4t9KXvCMAAAAM/rainbow-cat-rainbow.gif" alt="tiennhm" width="100%"/>
     </td>
 </table>
+</div>
 
 
