@@ -8,7 +8,7 @@
 </p>
 
 # 💫About Me :
-<img align="right" alt="Coding" width="200" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj">
+<img align="right" alt="Coding" width="180" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj">
 
 - **👤 Name:** Phan Trong Tin
 - **🎂 Age:** 20
