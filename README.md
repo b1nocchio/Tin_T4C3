@@ -9,6 +9,7 @@
 </p>
 
 # 💫About Me :
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
 - **👤 Name:** Phan Trong Tin
 - **🎂 Age:** 20
