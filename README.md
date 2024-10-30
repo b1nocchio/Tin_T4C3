@@ -1,3 +1,4 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
