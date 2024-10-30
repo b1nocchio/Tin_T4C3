@@ -119,6 +119,8 @@ I constantly strive to deepen my understanding and expand my skills in full-stac
 - **Currently Learning**: TypeScript, GraphQL
 - **Future Goals**: Master DevOps tools (Kubernetes, Terraform) and Cloud Services (AWS, Azure).
 
+---
+ 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
