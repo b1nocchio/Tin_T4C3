@@ -29,8 +29,6 @@
 
 ✨ Happy to connect with everyone!
 
-
-
 ---
 
 ## 👥 Nhóm
@@ -57,6 +55,7 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
 - **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
+---
 
 # ✍Activities:
 <table style="width:100%;">
@@ -73,6 +72,8 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
   </tr>
 </table>
 
+---
+
 # 💻 My favorite videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
@@ -88,6 +89,8 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
 [![ChatGPT hoạt động như thế nào? Tự viết ChatGPT chạy local SIÊU DỄ](https://ytcards.demolab.com/?id=L7AWT4QMlYw&title=ChatGPT+hoạt+động+như+thế+nào?&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "ChatGPT hoạt động như thế nào? Tự viết ChatGPT chạy local SIÊU DỄ")](https://www.youtube.com/watch?v=L7AWT4QMlYw)
 <!-- END YOUTUBE-CARDS -->
 
+---
+
 ## 🌟 Career Objective
 
 As a **Full-Stack Developer**, I aim to build seamless and efficient digital experiences by mastering both **front-end** and **back-end** technologies. I am passionate about leveraging the latest industry practices to deliver innovative solutions and contribute to impactful projects in the IT landscape.
@@ -95,17 +98,31 @@ As a **Full-Stack Developer**, I aim to build seamless and efficient digital exp
 --- 
 🔗 _Driven by curiosity, inspired by challenges, and committed to excellence in every line of code._
 
+---
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=b1nocchio&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b1nocchio&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b1nocchio&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=b1nocchio&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
+## 👨‍💻 My Learning Journey
+
+I constantly strive to deepen my understanding and expand my skills in full-stack development:
+- **Currently Learning**: TypeScript, GraphQL
+- **Future Goals**: Master DevOps tools (Kubernetes, Terraform) and Cloud Services (AWS, Azure).
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
 
 ### 😂Love cat
 <table style="width:100%;">
@@ -114,5 +131,14 @@ As a **Full-Stack Developer**, I aim to build seamless and efficient digital exp
       <img src="https://media.tenor.com/uZv4t9KXvCMAAAAM/rainbow-cat-rainbow.gif" alt="tiennhm" width="100%"/>
     </td>
 </table>
+
+---
+
+🙏 **Thank You for Visiting**
+
+Your time and interest in exploring my GitHub mean the world to me. Every star, fork, and interaction on this page is not just a mark of support but a shared step on the journey of innovation and creativity. I hope my projects and ideas inspire you as much as this field inspires me daily.
+
+✨ _Together, let’s build something amazing. Thank you for being a part of this journey._
+
 
 
