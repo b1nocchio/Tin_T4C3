@@ -33,14 +33,14 @@
 
 ## 👥 Nhóm
 
--- **Team Name**: The Six Super Brothers (Team 4)
--- **Members**:
- **Trần Hưng Nhật Thảo** – Product Owner: Oversees the overall project and ensures the final product meets customer requirements.
- **Phạm Hữu Hoàng** – Scrum Master: Coordinates the project using the Scrum methodology, helping the team work efficiently and stay on schedule.
- **Nguyễn Hoàng Phước Thịnh** – Developer: Develops and optimizes the codebase.
- **Phan Trọng Tín** – Developer: Primarily supports backend development for the project.
- **Phan Kiến Năng** – Developer: Focuses on frontend design and UX/UI.
- **Nguyễn Duy Tài** – Developer: Develops features related to data management.
+- **Team Name**: The Six Super Brothers (Team 4)
+- **Members**:
+ - **Trần Hưng Nhật Thảo** – Product Owner: Oversees the overall project and ensures the final product meets customer requirements.
+ - **Phạm Hữu Hoàng** – Scrum Master: Coordinates the project using the Scrum methodology, helping the team work efficiently and stay on schedule.
+ - **Nguyễn Hoàng Phước Thịnh** – Developer: Develops and optimizes the codebase.
+ - **Phan Trọng Tín** – Developer: Primarily supports backend development for the project.
+ - **Phan Kiến Năng** – Developer: Focuses on frontend design and UX/UI.
+ -  **Nguyễn Duy Tài** – Developer: Develops features related to data management.
  We are a young, dynamic team of students, always exploring and innovating in every project to deliver practical, valuable products.
 
 ---
