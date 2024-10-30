@@ -1,6 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm Everyone</h2>
@@ -9,7 +8,7 @@
 </p>
 
 # 💫About Me :
-<img align="right" alt="Coding" width="400" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj">
+<img align="right" alt="Coding" width="200" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj">
 
 - **👤 Name:** Phan Trong Tin
 - **🎂 Age:** 20
