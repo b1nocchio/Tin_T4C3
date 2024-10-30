@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <img align="right" width="64" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
@@ -78,4 +78,8 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
       <img src="https://media.tenor.com/uZv4t9KXvCMAAAAM/rainbow-cat-rainbow.gif" alt="tiennhm" width="100%"/>
     </td>
 </table>
+
+
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
