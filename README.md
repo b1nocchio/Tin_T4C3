@@ -134,7 +134,7 @@ I constantly strive to deepen my understanding and expand my skills in full-stac
 
 ---
 
-🙏 **Thank You for Visiting**
+## 🙏 **Thank You for Visiting**
 
 Your time and interest in exploring my GitHub mean the world to me. Every star, fork, and interaction on this page is not just a mark of support but a shared step on the journey of innovation and creativity. I hope my projects and ideas inspire you as much as this field inspires me daily.
 
