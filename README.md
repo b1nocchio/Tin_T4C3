@@ -9,7 +9,7 @@
 </p>
 
 # 💫About Me :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<img align="right" alt="Coding" width="400" src="https://yt3.googleusercontent.com/i-zlYSC8n_BLiXNVF-t0etsgnRVIYrM9S3mF0TW3OoirvXw_-QXyKkdc8Wh3rifoZSqZMGA6nFg=s160-c-k-c0x00ffffff-no-rj">
 
 - **👤 Name:** Phan Trong Tin
 - **🎂 Age:** 20
@@ -80,7 +80,4 @@ Chúng tôi là một nhóm sinh viên trẻ năng động, luôn tìm tòi và 
     </td>
 </table>
 
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
